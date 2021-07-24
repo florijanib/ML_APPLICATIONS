@@ -1,6 +1,6 @@
 # ML_APPLICATIONS
 
-# Churn Prediction
+## Predict_Customer_Churn.ipynb
 A step-by-step approach to **predict customer churn using supervised machine learning** in Python
 
 * Section A: Data Preprocessing
