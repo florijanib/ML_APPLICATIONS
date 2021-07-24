@@ -1,5 +1,5 @@
 # ML_APPLICATIONS
-A step-by-step approach to predict customer churn using **supervised machine learning** in Python
+A step-by-step approach to **predict customer churn using supervised machine learning** in Python
 
 * Section A: Data Preprocessing
 * Section B: Data Evaluation
