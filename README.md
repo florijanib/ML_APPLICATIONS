@@ -1,13 +1,13 @@
 # ML_APPLICATIONS
 A step-by-step approach to predict customer churn using **supervised machine learning** in Python
 
-Section A: Data Preprocessing
-Section B: Data Evaluation
-Section C: Model Selection
-Section D: Model Evaluation
-Section E: Model Improvement
-Section F: Future Predictions
-Section G: Model Deployment
+* Section A: Data Preprocessing
+* Section B: Data Evaluation
+* Section C: Model Selection
+* Section D: Model Evaluation
+* Section E: Model Improvement
+* Section F: Future Predictions
+* Section G: Model Deployment
 
 Testet models:
 1) Logistic Regression
